@@ -257,6 +257,12 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Github cards
+github-repos:
+  - name: PolarizedLightFieldMicroscopy/forward-model
+  - name: PolarizedLightFieldMicroscopy/napari-LF
+  - name: gjadick/dex-single-ray
+  - name: gschlafly
 
 # Plugins
 plugins:

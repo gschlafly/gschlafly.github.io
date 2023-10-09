@@ -11,6 +11,12 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
+  
+  - title: "Research"
+    url: /research/
+
+  # - title: "Outreach"
+  #   url: /outreach/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
