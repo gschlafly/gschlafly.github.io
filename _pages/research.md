@@ -27,7 +27,7 @@ We are reconstructing the 3D anisotropy of birefringent samples using polarized 
 <div class="github-card" data-github="PolarizedLightFieldMicroscopy/forward-model" data-width="300em" data-height="" data-theme="default"></div>
 
 **napari-LF: Light field imaging plugin for napari**,
-[PyPI](https://pypi.org/project/napari-LF/)
+[PyPI](https://pypi.org/project/napari-LF/), [news article](https://www.mbl.edu/news/mbl-uchicago-scientists-roll-out-new-tool-viewing-3d-images)
 
 We created a tool to compute 3D reconstructions of light field microscopy images using wave optics and machine learning methods.
 <div class="github-card" data-github="PolarizedLightFieldMicroscopy/napari-LF" data-width="300em" data-height="" data-theme="default"></div>

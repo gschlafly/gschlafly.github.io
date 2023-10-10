@@ -1,7 +1,7 @@
 ---
 title: "A Day in the Life of a STEM-itist"
 collection: outreach
-type: "STEM outreach event"
+type: "STEM outreach career series"
 permalink: /outreach/daylife
 venue: "Northwestern University & UChicago"
 date: 2021-06-30
