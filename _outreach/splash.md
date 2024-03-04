@@ -16,8 +16,8 @@ We hope to give high school students a chance to explore fields they are interes
 We’re part of a huge network of Splash programs hosted at universities across the country! Splash Chicago was one of the four founding members of this network!
 
 ## Leadership experience
-President from May 2022 -- present<br>
-Board member from February 2021 -- April 2022
+President from May 2022 -- October 2023<br>
+Board member from February 2021 -- present
 
 - Hosted the conference *SplashCon 2023* at UChicago in January 2023 for people running similar outreach programs at other universities. This was the first [SplashCon](https://splashcon.learningu.org/) ever held in Chicago.
 

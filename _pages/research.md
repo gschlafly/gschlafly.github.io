@@ -37,29 +37,41 @@ We created a tool to compute 3D reconstructions of light field microscopy images
 {: .h2title}
 
 **Dual-energy computed tomography imaging with megavoltage and kilovoltage x-ray spectra**,
-[link](https://www.medrxiv.org/content/10.1101/2023.06.22.23291766v1),
-[pdf](http://gschlafly.github.io/files/2023-06-22-dual-energy.pdf)
+*Journal of Medical Imaging*, 2024,
+[link](https://doi.org/10.1117/1.JMI.11.2.023501),
+[pdf](http://gschlafly.github.io/files/2024-03-04-dual-energy-JMI.pdf)
+<!-- [Arxiv link](https://www.medrxiv.org/content/10.1101/2023.06.22.23291766v1), -->
+<!-- [pdf](http://gschlafly.github.io/files/2023-06-22-dual-energy.pdf) -->
 
 We analyzed MV-kV dual-energy CT imaging systems and assess their potential advantages.
 
 <div class="github-card" data-github="gjadick/dex-single-ray" data-width="300em" data-height="" data-theme="default"></div>
 
+## Robotics and Neuroscience
+{: .h2title}
+
+**Augmenting Human Cognition With Collaborative Robots**, 
+*PNAS Nexas*, 2024,
+[link](https://doi.org/10.1093/pnasnexus/pgae016),
+[pdf](http://gschlafly.github.io/files/2024-01-17-robots-cognition-PNAS.pdf)
+<!-- [DARPA collaboration](https://murpheylab.github.io/projects/HumanSwarmCollaboration), -->
+
+We show how collaborative robots can improve a human's ability to reason, aumenting their physiological cognitive availability and decision-making.
+
+
 ## Theoretical mathematics
 {: .h2title}
 
-**Edge disjoint caterpillar realizations**, 
+**Edge disjoint caterpillar realizations**,
+*Discrete Applied Mathematics*, 2021,
 [link](https://doi.org/10.1016/j.dam.2020.11.006),
 [pdf](http://gschlafly.github.io/files/2020-11-26-caterpillar.pdf)
 
 **On Isomorphic K-Rational Groups of Isogenous Elliptic Curves Over Finite Fields**,
+*Rose-Hulman Undergraduate Mathematics Journal*, 2022,
 [link](https://scholar.rose-hulman.edu/rhumj/vol23/iss1/4),
 [pdf](http://gschlafly.github.io/files/2022-05-07-ellptic-curves.pdf)
 
-
-## Other
-{: .h2title}
-
-**Augmenting Human Cognition With Collaborative Robots**, [DARPA collaboration](https://murpheylab.github.io/projects/HumanSwarmCollaboration)
 
 
 <!-- This following line needs to be on this page so that the github cards render. -->
