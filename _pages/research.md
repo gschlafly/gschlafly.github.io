@@ -56,7 +56,7 @@ We analyzed MV-kV dual-energy CT imaging systems and assess their potential adva
 [pdf](http://gschlafly.github.io/files/2024-01-17-robots-cognition-PNAS.pdf)
 <!-- [DARPA collaboration](https://murpheylab.github.io/projects/HumanSwarmCollaboration), -->
 
-We show how collaborative robots can improve a human's ability to reason, aumenting their physiological cognitive availability and decision-making.
+We showed how collaborative robots can improve a human's ability to reason, aumenting their physiological cognitive availability and decision-making.
 
 
 ## Theoretical mathematics
@@ -70,7 +70,7 @@ We show how collaborative robots can improve a human's ability to reason, aument
 **On Isomorphic K-Rational Groups of Isogenous Elliptic Curves Over Finite Fields**,
 *Rose-Hulman Undergraduate Mathematics Journal*, 2022,
 [link](https://scholar.rose-hulman.edu/rhumj/vol23/iss1/4),
-[pdf](http://gschlafly.github.io/files/2022-05-07-ellptic-curves.pdf)
+[pdf](http://gschlafly.github.io/files/2022-05-07-elliptic-curves.pdf)
 
 
 
