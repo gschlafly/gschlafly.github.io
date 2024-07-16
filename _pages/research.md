@@ -47,7 +47,7 @@ We analyzed MV-kV dual-energy CT imaging systems and assess their potential adva
 
 <div class="github-card" data-github="gjadick/dex-single-ray" data-width="300em" data-height="" data-theme="default"></div>
 
-## Robotics and Neuroscience
+## Robotics and neuroscience
 {: .h2title}
 
 **Augmenting Human Cognition With Collaborative Robots**, 
@@ -56,7 +56,7 @@ We analyzed MV-kV dual-energy CT imaging systems and assess their potential adva
 [pdf](http://gschlafly.github.io/files/2024-01-17-robots-cognition-PNAS.pdf)
 <!-- [DARPA collaboration](https://murpheylab.github.io/projects/HumanSwarmCollaboration), -->
 
-We showed how collaborative robots can improve a human's ability to reason, aumenting their physiological cognitive availability and decision-making.
+We showed how collaborative robots can improve a human's ability to reason, augmenting their physiological cognitive availability and decision-making.
 
 
 ## Theoretical mathematics
