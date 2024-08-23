@@ -13,7 +13,7 @@ I am a 5th year PhD candidate in [Medical Physics](https://medphys.uchicago.edu/
 **Research interests**: computational imaging, polarized light microscopy, light field imaging, birefringence, physics-informed machine learning, mathematical optimization, applied representation theory
 
 ## Current Research Affiliations and Leadership Roles
-- Chair of the [2024 Image Science Gordon Research Seminar](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
+- Chair of the [2024 Image Science Gordon Research Seminar](https://www.grc.org/image-science-grs-conference/2024/)
 - [International House](https://ihouse.uchicago.edu/) Graduate Fellow
 - Trainee Associate Member of the [University of Chicago Medicine Comprehensive Cancer Center](https://www.uchicagomedicine.org/cancer/research)
 

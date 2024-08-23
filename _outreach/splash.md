@@ -17,7 +17,7 @@ We’re part of a huge network of Splash programs hosted at universities across 
 
 ## Leadership experience
 President from May 2022 -- October 2023<br>
-Board member from February 2021 -- present
+Board member from February 2021 -- May 2024
 
 - Hosted the conference *SplashCon 2023* at UChicago in January 2023 for people running similar outreach programs at other universities. This was the first [SplashCon](https://splashcon.learningu.org/) ever held in Chicago.
 
