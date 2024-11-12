@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in [Medical Physics](https://medphys.uchicago.edu/) at the University of Chicago. I am working under the advisement of [Dr. Patrick La Rivière](https://radiology.uchicago.edu/faculty/patrick-j-la-riviere-phd) and [Dr. Rudolf Oldenbourg](https://www.mbl.edu/research/faculty-and-whitman-scientists/Rudolf%20Oldenbourg), and will be graduating in December 2024. I study tomography techniques for polarized light microscopy, with a particular interest in characterizing the 3D anisotropy of birefringence samples using light field microscopy. In my free time, I enjoy playing soccer and making ceramics.
+I am a 5th year PhD candidate in [Medical Physics](https://medphys.uchicago.edu/) at the University of Chicago. I am working under the advisement of [Dr. Patrick La Rivière](https://radiology.uchicago.edu/faculty/patrick-j-la-riviere-phd) and [Dr. Rudolf Oldenbourg](https://www.mbl.edu/research/faculty-and-whitman-scientists/Rudolf%20Oldenbourg), and will be graduating in March 2025. I study tomography techniques for polarized light microscopy, with a particular interest in characterizing the 3D anisotropy of birefringence samples using light field microscopy. In my free time, I enjoy playing soccer and making ceramics.
 
 **Research interests**: computational imaging, polarized light microscopy, light field imaging, birefringence, physics-informed machine learning, mathematical optimization, applied representation theory
+
+In addition to my academic work, I recently co-founded the quantum biotechnology startup [BarQu](https://www.barqu.net/). I will be graduating in March 2025, and I am excited to explore opportunities that bridge my expertise in medical physics, imaging technologies, and entrepreneurship.
 
 ## Current Research Affiliations and Leadership Roles
 - Chair of the [2024 Image Science Gordon Research Seminar](https://www.grc.org/image-science-grs-conference/2024/)
