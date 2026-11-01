@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Geneva (Schlafly) Anderberg"
+  name             : "Geneva Anderberg"
   avatar           : "Geneva-profile.jpg"
   bio              : "PhD Student at the University of Chicago"
   location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_P1p3GAAAAAJ&hl=en&oi=ao"
-  email            : "gschlafly@uchicago.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=KdI8SwoAAAAJ&hl=en"
+  email            : "genevaanderberg@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
