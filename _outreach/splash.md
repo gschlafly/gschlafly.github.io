@@ -16,7 +16,7 @@ We hope to give high school students a chance to explore fields they are interes
 We’re part of a huge network of Splash programs hosted at universities across the country! Splash Chicago was one of the four founding members of this network!
 
 ## Leadership experience
-President from May 2022 -- October 2023<br>
+President from May 2022 -- January 2024<br>
 Board member from February 2021 -- May 2024
 
 - Hosted the conference *SplashCon 2023* at UChicago in January 2023 for people running similar outreach programs at other universities. This was the first [SplashCon](https://splashcon.learningu.org/) ever held in Chicago.
@@ -27,5 +27,5 @@ Board member from February 2021 -- May 2024
 - Teacher in Splash program in February 2022, for the course *Eye Doc for a Day*
 - Teacher in Droplet program in January 2021, for the course *Physics of Medical Imaging*
 
-## Affilications
+## Affiliations
 *Splash! Chicago* is supported by the national organization [Learning Unlimited](https://www.learningu.org/current-programs/), and as a [student organization](https://blueprint.uchicago.edu/organization/splash) at the University of Chicago.

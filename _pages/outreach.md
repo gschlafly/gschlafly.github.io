@@ -1,5 +1,5 @@
 ---
-title: "Community Involvment"
+title: "Community Involvement"
 permalink: /outreach/
 author_profile: true
 ---
