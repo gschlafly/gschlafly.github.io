@@ -8,24 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in [Medical Physics](https://medphys.uchicago.edu/) at the University of Chicago. I am working under the advisement of [Dr. Patrick La Rivière](https://radiology.uchicago.edu/faculty/patrick-j-la-riviere-phd) and [Dr. Rudolf Oldenbourg](https://www.mbl.edu/research/faculty-and-whitman-scientists/Rudolf%20Oldenbourg), and will be graduating in March 2025. I study tomography techniques for polarized light microscopy, with a particular interest in characterizing the 3D anisotropy of birefringence samples using light field microscopy. In my free time, I enjoy playing soccer and making ceramics.
+**I develop machine learning algorithms for medical imaging, with a focus on 3D geometric deep learning.**
 
-**Research interests**: computational imaging, polarized light microscopy, light field imaging, birefringence, physics-informed machine learning, mathematical optimization, applied representation theory
+I'm a machine learning engineer with a Ph.D. in [Medical Physics](https://medphys.uchicago.edu/) from the University of Chicago. I build ML models for 3D medical imaging, from the physics of how an image forms to models running in production. At [Dandy](https://www.meetdandy.com/), a dental medical device manufacturer, I developed computer vision algorithms end-to-end, from dataset design to production deployment. I now do machine learning consulting.
 
-In addition to my academic work, I recently co-founded the quantum biotechnology startup [BarQu](https://www.barqu.net/). I will be graduating in March 2025, and I am excited to explore opportunities that bridge my expertise in medical physics, imaging technologies, and entrepreneurship.
+My [Ph.D. research](/research/), advised by [Dr. Patrick La Rivière](https://radiology.uchicago.edu/faculty/patrick-j-la-riviere-phd) and [Dr. Rudolf Oldenbourg](https://www.mbl.edu/research/faculty-and-whitman-scientists/Rudolf%20Oldenbourg), developed *birefringence tomography*: the first algorithms recovering 3D birefringence from polarized light-field microscopy.
 
-## Current Research Affiliations and Leadership Roles
-- Chair of the [2024 Image Science Gordon Research Seminar](https://www.grc.org/image-science-grs-conference/2024/)
-- [International House](https://ihouse.uchicago.edu/) Graduate Fellow
-- Trainee Associate Member of the [University of Chicago Medicine Comprehensive Cancer Center](https://www.uchicagomedicine.org/cancer/research)
+## What I work on
+- **3D geometric deep learning for anatomy**: segmentation, generation, and refinement on point clouds, voxel grids, and meshes
+- **Physics-based 3D reconstruction**: differentiable forward models, equivariant networks, and neural fields
+- **Clinical validation**: acceptance criteria set with clinicians before evaluation, and analysis of how models fail
 
-### Graduate Program in Medical Physics, UChicago
-- Chair of the Medical Physics Research Colloquium Series
-- Representative for the Biological Sciences Division [Dean's Council](https://voices.uchicago.edu/deanscouncilbsd/dcrepresentatives/)
-- Librarian for the Biological Sciences Division [Equipment Library](https://bsdequipmentlibrary.wordpress.com/)
-
-### Professional Societies
-- [International Society for Optics and Photonics](https://spie.org/) (SPIE), member
-- [American Physical Society](https://www.aps.org/) (APS), member
-- [Optica](https://www.optica.org/), member
-- [American Association of Physicists in Medicine](https://w3.aapm.org/) (AAPM), member
+Outside of work, I enjoy playing soccer and making ceramics.

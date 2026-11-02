@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "PhD Research"
 permalink: /research/
 author_profile: true
 ---
@@ -22,7 +22,7 @@ Polarized light microscopy with a microlens array to offer angular diversity and
 **Geometrical birefringence tomography**
 
 We are reconstructing the 3D anisotropy of birefringent samples using polarized light field microscopy.
-*Paper in preparation.* Our foward model using ray tracing and Jones calculus as shown [here](https://doi.org/10.1364/JOSAA.458034).
+*Paper under review.* Our forward model uses ray tracing and Jones calculus, as shown [here](https://doi.org/10.1364/JOSAA.458034).
 
 <div class="github-card" data-github="PolarizedLightFieldMicroscopy/forward-model" data-width="300em" data-height="" data-theme="default"></div>
 
@@ -43,7 +43,7 @@ We created a tool to compute 3D reconstructions of light field microscopy images
 <!-- [Arxiv link](https://www.medrxiv.org/content/10.1101/2023.06.22.23291766v1), -->
 <!-- [pdf](http://gschlafly.github.io/files/2023-06-22-dual-energy.pdf) -->
 
-We analyzed MV-kV dual-energy CT imaging systems and assess their potential advantages.
+We analyzed MV-kV dual-energy CT imaging systems and assessed their potential advantages.
 
 <div class="github-card" data-github="gjadick/dex-single-ray" data-width="300em" data-height="" data-theme="default"></div>
 
@@ -51,7 +51,7 @@ We analyzed MV-kV dual-energy CT imaging systems and assess their potential adva
 {: .h2title}
 
 **Augmenting Human Cognition With Collaborative Robots**, 
-*PNAS Nexas*, 2024,
+*PNAS Nexus*, 2024,
 [link](https://doi.org/10.1093/pnasnexus/pgae016),
 [pdf](http://gschlafly.github.io/files/2024-01-17-robots-cognition-PNAS.pdf)
 <!-- [DARPA collaboration](https://murpheylab.github.io/projects/HumanSwarmCollaboration), -->
@@ -71,6 +71,25 @@ We showed how collaborative robots can improve a human's ability to reason, augm
 *Rose-Hulman Undergraduate Mathematics Journal*, 2022,
 [link](https://scholar.rose-hulman.edu/rhumj/vol23/iss1/4),
 [pdf](http://gschlafly.github.io/files/2022-05-07-elliptic-curves.pdf)
+
+
+## Research Affiliations and Leadership Roles
+{: .h2title}
+
+- Chair of the [2024 Image Science Gordon Research Seminar](https://www.grc.org/image-science-grs-conference/2024/)
+- [International House](https://ihouse.uchicago.edu/) Graduate Fellow
+- Trainee Associate Member of the [University of Chicago Medicine Comprehensive Cancer Center](https://www.uchicagomedicine.org/cancer/research)
+
+**Graduate Program in Medical Physics, UChicago**
+- Chair of the Medical Physics Research Colloquium Series
+- Representative for the Biological Sciences Division [Dean's Council](https://voices.uchicago.edu/deanscouncilbsd/dcrepresentatives/)
+- Librarian for the Biological Sciences Division [Equipment Library](https://bsdequipmentlibrary.wordpress.com/)
+
+**Professional Societies**
+- [International Society for Optics and Photonics](https://spie.org/) (SPIE), member
+- [American Physical Society](https://www.aps.org/) (APS), member
+- [Optica](https://www.optica.org/), member
+- [American Association of Physicists in Medicine](https://w3.aapm.org/) (AAPM), member
 
 
 
